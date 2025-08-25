@@ -210,9 +210,3 @@ git push
 ![Image](http://learn.nextwork.org/sparkling_indigo_heroic_bat/uploads/aws-devops-github_6becb2bc)
 
 ---
-
-## Setting up a READMe file
-
----
-
----
